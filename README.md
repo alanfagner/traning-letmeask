@@ -40,7 +40,7 @@ Projeto desenvolvido durante o NLW da Rocketseat, ReactJs, firebase.
 ## 🚀 Images
 ### Screenshots
 <p float="left">
-  <img src="./screenshots/main.png" width="300" />
+  <img src="./screenshots/main.png" width="500" />
   <img src="./screenshots/newRoom.png" width="500" /> 
   <img src="./screenshots/room.png" width="500" />
   <img src="./screenshots/adminRoom.png" width="500" />
