@@ -11,7 +11,7 @@
 
 
 <h3 align="center">
-  :rocket: [NLW#] LetMeAsk
+  :rocket: [NLW] LetMeAsk
 </h3>
 
 ## 💻 Sobre
@@ -26,7 +26,7 @@ Projeto desenvolvido durante o NLW da Rocketseat, ReactJs, firebase.
 * Responder perguntas.
 * Marcar como respondido as perguntas.
 * Curtir perguntas.
-* Atividades em tempo real.
+* Funcionalidades em tempo real.
 
 
 ## 🚀 Tecnologias
